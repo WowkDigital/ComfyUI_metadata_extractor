@@ -46,7 +46,8 @@ This script processes multiple `.png` files to extract and clean specific metada
 - **Behavior**: Checks for the presence of file paths passed as command-line arguments. Calls `process_files` with the list of file paths.
 
 ## Usage
-Run the script from the command line, passing the paths of `.png` files as arguments. For example:
+- Drag and drop images on script file.
+- Run the script from the command line, passing the paths of `.png` files as arguments. For example:
 ```bash
 python script.py image1.png image2.png
 ```
